@@ -1,5 +1,5 @@
-github  zj2893  zj28931543@GITHUB
-gitee    zj2893  zj28931543@GITEE
+github  zj2893  zj28931543@*
+gitee    zj2893  zj28931543@*
 
 
 python
